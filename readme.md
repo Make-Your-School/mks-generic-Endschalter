@@ -8,7 +8,7 @@ tags:
     - 'taster'
     - 'motor'
     - 'input'
-coverImage: 'mys_mk_25.jpg'
+coverImage: './mys_mk_25.png'
 material_number: '25'
 material_type: 'sensor'
 manufacture: 'generic'
